@@ -30,12 +30,12 @@
 - Склонируйте репозиторий:
 
 ```
-git clone https://github.com/ваш_репозиторий.git
+git clone https://github.com/Kaktys36/big_data_systems_hw_2.git
 ```
 - Перейдите в директорию проекта:
 
 ```
-cd ваш_репозиторий
+cd big_data_systems_hw_2
 ```
 - Соберите и запустите проект с помощью Docker Compose:
 
